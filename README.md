@@ -7,7 +7,7 @@ Configuration to serve Plex via Nginx.
 1. Nginx
 2. Plex
 
-* Remote Access - Disable
+* Remote Access - Disable.
 * Network - Custom server access URLs = `https://<your-domain>:443,http://<your-domain>:80`
 * Network - Secure connections = Preferred.
 
