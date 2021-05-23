@@ -25,5 +25,5 @@ Note: `adding allowLocalhostOnly="1" to your Preferences.xml, will make Plex onl
 
 ## Tautulli:
 
-* make sure HTTP Proxy is checked under Settings > Show Advanced button > Web Interface
-* for custom url: Settings > Show Advanced button > Web Interface > HTTP Root. change the base URL to nginx configuration's Tautulli location block name.
+* make sure HTTP Proxy is checked under `Settings > Show Advanced button > Web Interface`
+* for custom url: `Settings > Show Advanced button > Web Interface > HTTP Root`. change the base URL to nginx configuration's Tautulli location block name.
