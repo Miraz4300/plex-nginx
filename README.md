@@ -9,7 +9,7 @@ Configuration to serve Plex & Tautulli via Nginx.
 
 1. Nginx
 2. Plex
-3. Tautulli (optional - tautulli server block can be removed)
+3. Tautulli (optional - tautulli configuration block can be removed)
 
 * Remote Access - Disable.
 * Network - Custom server access URLs = `https://<your-domain>:443,http://<your-domain>:80`
