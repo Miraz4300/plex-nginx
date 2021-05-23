@@ -2,6 +2,9 @@
 
 Configuration to serve Plex & Tautulli via Nginx.
 
+![Plex](https://blob.deepspacelab.dev/github/Plex.png)
+![Tautulli](https://blob.deepspacelab.dev/github/Tautulli.jpg)
+
 ## Minimal Requirements:
 
 1. Nginx
