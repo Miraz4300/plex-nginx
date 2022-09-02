@@ -2,8 +2,8 @@
 
 Configuration to serve Plex & Tautulli via Nginx.
 
-![Plex](https://blob.octocarbon.codes/github/Plex.png)
-![Tautulli](https://blob.octocarbon.codes/github/Tautulli.jpg)
+![Plex](https://blob.miraz-hossain.me/github/Plex.png)
+![Tautulli](https://blob.miraz-hossain.me/github/Tautulli.jpg)
 
 ## Minimal Requirements:
 
